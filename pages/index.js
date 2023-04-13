@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I am Erik Guaman. I am a junior Information Technology student at New Jersey Institute of Technology.</p>
+        <p>Heyo, my name is Jason Bilawsky. I am a third year Information Technology student at New Jersey Institute of Technology.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
